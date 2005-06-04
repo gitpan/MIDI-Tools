@@ -1,4 +1,4 @@
-MIDI/Tools version 0.01
+MIDI/Tools version 0.02
 =======================
 
 This is a collection of functions evaluating or transforming lists of MIDI
@@ -21,7 +21,7 @@ MIDI-Perl suite of modules.
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2003 Christian Renz <crenz@web42.com>
+Copyright (C) 2003-2005 Christian Renz <crenz@web42.com>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
